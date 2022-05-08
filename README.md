@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![ ](C:\Users\talha\Desktop\Software\GitKursu\kodluyoruzilkrepo)
+![ ](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
